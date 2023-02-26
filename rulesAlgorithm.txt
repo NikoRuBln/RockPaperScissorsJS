@@ -1,0 +1,14 @@
+Rules that have to be followed:
+
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+
+1.Computer generates random number
+2.This number (0,1,2) is assigned a value (rock,paper,scissors)
+3.Value is returned to main method
+4.User Inputs Choice (as string of characters)
+5.Values, both for computer and user, are compared and winner is decided
+6.Score is added to the winner
+7.Process is repeated for 5 times
+8.Scores are compared and whoever has the majority is declared the winner 
